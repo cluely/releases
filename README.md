@@ -1,1 +1,1 @@
-# pike-releases
+# Cluely Desktop App Releases
